@@ -38,7 +38,6 @@ Each PR must have:
 - **1 approval from an Admin** (oversight/governance), and
 - **1 approval from a Maintainer/Developer** (technical review)
 - All required status checks passing
-- Style and documentation updates where applicable
 
 ## 4. Contribution Workflow (high-level)
 1. Fork or branch the repository
